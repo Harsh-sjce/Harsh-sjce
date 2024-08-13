@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/@sharmaharsh88" target="blank"><img src="https://img.shields.io/twitter/follow/@sharmaharsh88?logo=twitter&style=for-the-badge" alt="@sharmaharsh88" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@sharmaharsh88" target="blank"><img src="https://img.shields.io/twitter/follow/@sharmaharsh88?logo=twitter&style=for-the-badge" alt="sharmaharsh88" /></a> </p>
 
 - 🔭 I’m currently working **connectify**
 
